@@ -1,0 +1,3023 @@
+{
+ "version": 1,
+ "updated": "2026-10-22T00:00:00Z",
+ "settings": {
+  "brand": "M A FURNITURE",
+  "subtitle": "Manufacturing, Wholesale, Interior Work & Retail",
+  "tagline": "Better Furniture · Better Living",
+  "heroTitle": "Furniture made in our workshop,",
+  "heroAccent": "finished for your home.",
+  "heroText": "Sofa sets, bedroom sets, wardrobes, office desks and wooden settees, built to order. Pick a design, choose your fabric and colour, and we make it to fit your room.",
+  "whatsapp": "916235290961",
+  "phoneDisplay": "+91 62352 90961",
+  "address": "M A Furniture, Povval, Cherkala, Mulleria Road",
+  "hours": "Mon – Sat · 9:30 AM – 8:00 PM",
+  "maxEnquiry": 4,
+  "siteUrl": "",
+  "heroImages": [
+   "images/forestu.jpg",
+   "images/bs_premium.jpg",
+   "images/rust.jpg"
+  ]
+ },
+ "categories": [
+  {
+   "id": "living-room",
+   "name": "Living Room",
+   "title": "Sofas & Sofa Beds",
+   "intro": "U-shapes, L-shapes, corner sofas, sofa cum beds and wooden-frame sofas. Every design can be made in a different size, fabric or colour.",
+   "subgroups": [
+    {
+     "id": "u-shape",
+     "name": "U-Shape"
+    },
+    {
+     "id": "l-shape",
+     "name": "L-Shape & Corner"
+    },
+    {
+     "id": "sofa-cum-bed",
+     "name": "Sofa Cum Beds"
+    },
+    {
+     "id": "sets-wooden",
+     "name": "Sofa Sets & Wooden"
+    }
+   ]
+  },
+  {
+   "id": "wardrobes",
+   "name": "Wardrobes",
+   "title": "Wardrobes",
+   "intro": "Wardrobes in engineered particle board with a durable melamine finish, made to your size and laminate.",
+   "subgroups": [
+    {
+     "id": "2-door",
+     "name": "2 Door"
+    },
+    {
+     "id": "3-door",
+     "name": "3 Door"
+    },
+    {
+     "id": "4-door",
+     "name": "4 Door"
+    }
+   ]
+  },
+  {
+   "id": "bedroom-sets",
+   "name": "Bedroom Sets",
+   "title": "Complete Bedroom Sets",
+   "intro": "Bed, wardrobe, dresser and bedside tables in one matching finish. Choose your door count, laminate and bed size.",
+   "subgroups": [
+    {
+     "id": "2-door",
+     "name": "2 Door"
+    },
+    {
+     "id": "3-door",
+     "name": "3 Door"
+    },
+    {
+     "id": "4-door",
+     "name": "4 Door"
+    },
+    {
+     "id": "5-door",
+     "name": "5 Door"
+    }
+   ]
+  },
+  {
+   "id": "study",
+   "name": "Study & Work",
+   "title": "Office & Study Tables",
+   "intro": "Executive desks for cabins and home offices, and compact study tables for students.",
+   "subgroups": [
+    {
+     "id": "office-desks",
+     "name": "Office Desks"
+    },
+    {
+     "id": "study-tables",
+     "name": "Study Tables"
+    }
+   ]
+  },
+  {
+   "id": "outdoor",
+   "name": "Outdoor / Lounge",
+   "title": "Sit-out Settees & Chairs",
+   "intro": "Solid-wood settees and benches and sit-out chairs for verandahs, balconies and entrance halls.",
+   "subgroups": [
+    {
+     "id": "wooden-settees",
+     "name": "Wooden Settees & Benches"
+    },
+    {
+     "id": "sit-out-chairs",
+     "name": "Sit-out Chairs"
+    }
+   ]
+  }
+ ],
+ "products": [
+  {
+   "code": "MAF-LR-01",
+   "name": "Forest Crescent U-Sofa",
+   "category": "living-room",
+   "subgroup": "u-shape",
+   "summary": "10-seater U-shape",
+   "material": "Forest green velvet",
+   "description": "A grand U-shape in deep forest-green velvet. Diamond-quilted outer arms are framed by a sweeping gold trim, with channel stitching on the back and base and gold-finish legs. It seats a full family around one centre table.",
+   "keys": [
+    "Quilted arms with gold sweep",
+    "Channel-stitched back",
+    "Gold legs"
+   ],
+   "tags": [
+    "Signature"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Forest green velvet"
+    ],
+    [
+     "Seating",
+     "10-seater U-shape"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/forestu.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 1,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-02",
+   "name": "Cloud Grey U-Lounge",
+   "category": "living-room",
+   "subgroup": "u-shape",
+   "summary": "10-seater U-shape",
+   "material": "Light grey textured fabric",
+   "description": "A soft light-grey U-lounge with button-tufted backrests and diamond-quilted arms edged in gold piping. The neutral base takes any cushion colour, and the set shown has rust, floral and chevron prints.",
+   "keys": [
+    "Button-tufted backs",
+    "Quilted arms",
+    "Gold feet"
+   ],
+   "tags": [
+    "Family size"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Light grey textured fabric"
+    ],
+    [
+     "Seating",
+     "10-seater U-shape"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/greyu.jpg"
+   ],
+   "imagePos": "50% 62%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 2,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-03",
+   "name": "Rosewood Corner Set",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "7-seater + tub chair + pouffe",
+   "material": "Dusty rose suede",
+   "description": "Dusty-rose suede with fan-pattern stitching and small gold accents on every backrest, and polished wooden inlays on the rolled arms. It comes with a matching round tub chair and a tufted round pouffe.",
+   "keys": [
+    "Wooden arm inlay",
+    "Tub chair + pouffe",
+    "Fan-stitch backs"
+   ],
+   "tags": [
+    "With tub chair"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Dusty rose suede"
+    ],
+    [
+     "Seating",
+     "7-seater + tub chair + pouffe"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/rose.jpg"
+   ],
+   "imagePos": "40% 62%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 3,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-04",
+   "name": "Emerald Modular Corner",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "6-seater",
+   "material": "Emerald velvet",
+   "description": "Built as separate modules that join into a corner, so it can be rearranged or carried through narrow doors. Emerald velvet with a channel-stitched base, sculpted arms and slim chrome legs.",
+   "keys": [
+    "Modular sections",
+    "Chrome legs",
+    "Sculpted arms"
+   ],
+   "tags": [
+    "Modular"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Emerald velvet"
+    ],
+    [
+     "Seating",
+     "6-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/emerald.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 4,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-05",
+   "name": "Cocoa Grand Headrest L",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "8-seater",
+   "material": "Chocolate suede",
+   "description": "A long L-shape for big families, in chocolate-brown suede with diamond-quilted backs and individual headrest cushions. It's paired with an upholstered ottoman table with a floating glass top and gold-finish feet.",
+   "keys": [
+    "8 seats",
+    "Headrest cushions",
+    "Ottoman glass table"
+   ],
+   "tags": [
+    "Headrests"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Chocolate suede"
+    ],
+    [
+     "Seating",
+     "8-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/cocoa.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 5,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-06",
+   "name": "Mocha Headrest Lounger",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "6-seater with lounger",
+   "material": "Mocha suede",
+   "description": "Mocha suede with adjustable headrests along the back, channel-stitched seats and a long lounger to stretch out on. The curved-base centre table has a black glass top.",
+   "keys": [
+    "Adjustable headrests",
+    "Lounger end",
+    "Curved glass table"
+   ],
+   "tags": [
+    "Headrests",
+    "Lounger"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Mocha suede"
+    ],
+    [
+     "Seating",
+     "6-seater with lounger"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/taupe.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 6,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-07",
+   "name": "Ivory Heritage Corner",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "6-seater",
+   "material": "Ivory leatherette",
+   "description": "Cream leatherette with fine channel stitching on the backs and rolled arms, set on turned wooden bun feet. It's a timeless shape that brightens a room and wipes clean.",
+   "keys": [
+    "Rolled arms",
+    "Turned wooden feet",
+    "Wipe-clean finish"
+   ],
+   "tags": [
+    "Easy-clean"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Ivory leatherette"
+    ],
+    [
+     "Seating",
+     "6-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/ivoryleather.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 7,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-08",
+   "name": "Steel Grey Heritage Corner",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "7-seater",
+   "material": "Steel grey leatherette",
+   "description": "Grey leatherette with diamond-quilted panels, padded rolled arms with polished wood fascia and turned wooden feet. Classic detailing on a clean modern shape that wipes clean easily.",
+   "keys": [
+    "Wooden arm fascia",
+    "Diamond quilting",
+    "Turned wooden feet"
+   ],
+   "tags": [
+    "Wood accents",
+    "Easy-clean"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Steel grey leatherette"
+    ],
+    [
+     "Seating",
+     "7-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/steel.jpg",
+    "images/steel2.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 8,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-09",
+   "name": "Copper Quilt Corner Sofa",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "6-seater",
+   "material": "Copper suede",
+   "description": "Copper-toned suede with diamond quilting on the backrests, arms and base, finished with contrast top-stitching. Slim black metal legs keep it looking light and make it easy to clean under.",
+   "keys": [
+    "Diamond quilting",
+    "Contrast stitching",
+    "Black metal legs"
+   ],
+   "tags": [
+    "Slim legs"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Copper suede"
+    ],
+    [
+     "Seating",
+     "6-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/copper.jpg"
+   ],
+   "imagePos": "50% 58%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 9,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-10",
+   "name": "Tan Cube-Arm Corner",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "6-seater",
+   "material": "Tan leatherette",
+   "description": "Tan leatherette with diamond-stitched backrests and bold open box arms that double as a handy niche for magazines or the remote. The low, modern profile suits apartments.",
+   "keys": [
+    "Open box arms",
+    "Diamond-stitched backs",
+    "Wipe-clean finish"
+   ],
+   "tags": [
+    "Easy-clean"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Tan leatherette"
+    ],
+    [
+     "Seating",
+     "6-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/tan.jpg"
+   ],
+   "imagePos": "50% 58%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 10,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-11",
+   "name": "Saffron Channel L-Sofa",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "7-seater",
+   "material": "Mustard velvet",
+   "description": "Rich mustard velvet with deep vertical channels on the backs, arms and base, and a thin gold trim tracing the arms. It's a statement piece that warms up a neutral room.",
+   "keys": [
+    "Deep channel stitching",
+    "Gold arm trim",
+    "7 seats"
+   ],
+   "tags": [],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Mustard velvet"
+    ],
+    [
+     "Seating",
+     "7-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/saffron.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 11,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-12",
+   "name": "Powder Blue Round-Table Set",
+   "category": "living-room",
+   "subgroup": "l-shape",
+   "summary": "7-seater",
+   "material": "Powder blue velvet",
+   "description": "Powder-blue velvet with channel-stitched arms and base, gold accents on the arms and gold-tipped cushions. Comes with a button-tufted round centre table and two ribbed round pouffes.",
+   "keys": [
+    "Tufted round table",
+    "2 round pouffes",
+    "Gold accents"
+   ],
+   "tags": [
+    "Round table"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Powder blue velvet"
+    ],
+    [
+     "Seating",
+     "7-seater"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/powder.jpg"
+   ],
+   "imagePos": "50% 62%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 12,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-13",
+   "name": "Terracotta Sofa Cum Bed",
+   "category": "living-room",
+   "subgroup": "sofa-cum-bed",
+   "summary": "L-shape · converts to bed",
+   "material": "Rust velvet",
+   "description": "A space-saving L-sofa that opens into a bed for guests. The lounger lifts up for hidden storage, and the gold-band cushions and piped curved arm keep it looking like a regular premium sofa. It comes with a matching upholstered table with a black glass top.",
+   "keys": [
+    "Pull-out bed",
+    "Storage lounger",
+    "Matching table"
+   ],
+   "tags": [
+    "Sofa cum bed",
+    "Storage"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Rust velvet"
+    ],
+    [
+     "Seating",
+     "L-shape · converts to bed"
+    ],
+    [
+     "Bed mechanism",
+     "Pull-out platform with pull tabs; opens to a double-bed sleeping surface"
+    ],
+    [
+     "Storage",
+     "Lift-up box under the lounger seat"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/rust.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 13,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-14",
+   "name": "Mauve Sofa Cum Bed Suite",
+   "category": "living-room",
+   "subgroup": "sofa-cum-bed",
+   "summary": "L-shape · converts to bed",
+   "material": "Mauve velvet",
+   "description": "A soft mauve L-sofa that pulls out into a bed, with a storage lounger, channel-stitched arms with gold edging and gold-stripe cushions. It comes with a matching square table and two pouffes that tuck away.",
+   "keys": [
+    "Pull-out bed",
+    "Storage",
+    "Table + 2 pouffes"
+   ],
+   "tags": [
+    "Sofa cum bed",
+    "Storage"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Mauve velvet"
+    ],
+    [
+     "Seating",
+     "L-shape · converts to bed"
+    ],
+    [
+     "Bed mechanism",
+     "Pull-out platform; opens to a double-bed sleeping surface"
+    ],
+    [
+     "Storage",
+     "Box storage under the lounger"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/mauve.jpg"
+   ],
+   "imagePos": "50% 70%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 14,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-15",
+   "name": "Mint Gilded 3+2 Set",
+   "category": "living-room",
+   "subgroup": "sets-wooden",
+   "summary": "5-seater (3+2)",
+   "material": "Mint velvet",
+   "description": "A 3-seater and a 2-seater in soft mint velvet, with channel-stitched backs and a gold strip sweeping along the arm. Gold wire legs keep the look light, which suits apartments and modern halls.",
+   "keys": [
+    "Gold arm trim",
+    "Channel backs",
+    "Gold wire legs"
+   ],
+   "tags": [
+    "3+2"
+   ],
+   "features": [
+    "Stitched and upholstered in our own workshop",
+    "Fabric, colour and cushion prints can be changed to match your room",
+    "Length and seat count can be adjusted for L-shape and corner layouts",
+    "Cushions included as shown; covers can be ordered in a different print"
+   ],
+   "specs": [
+    [
+     "Upholstery",
+     "Mint velvet"
+    ],
+    [
+     "Seating",
+     "5-seater (3+2)"
+    ],
+    [
+     "Frame",
+     "Seasoned hardwood with engineered-wood support panels, screwed and glued joints"
+    ],
+    [
+     "Seat",
+     "High-resilience (HR) foam, 32–40 density, with fibre wrap for a soft top layer"
+    ],
+    [
+     "Back & arms",
+     "Medium-density PU foam with fibre-filled cushions"
+    ],
+    [
+     "Suspension",
+     "Elastic webbing / zig-zag springs under the seat"
+    ],
+    [
+     "Legs",
+     "Metal legs in gold or chrome finish, or wooden feet (as shown)"
+    ],
+    [
+     "Customisation",
+     "Seat count, overall length, fabric and colour on order"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/mintduo.jpg"
+   ],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 15,
+   "active": true
+  },
+  {
+   "code": "MAF-LR-16",
+   "name": "Teak Frame Corner Sofa",
+   "category": "living-room",
+   "subgroup": "sets-wooden",
+   "summary": "6-seater L-shape",
+   "material": "Solid wood frame, grey channel cushions",
+   "description": "A solid-wood corner sofa with a curved spindle back and slatted arms in a rich honey polish, fitted with plush channel-stitched grey cushions. It comes with a matching solid-wood centre table, for a traditional look with modern comfort.",
+   "keys": [
+    "Solid wood frame",
+    "Channel cushions",
+    "Matching wood table"
+   ],
+   "tags": [
+    "Solid wood"
+   ],
+   "features": [
+    "Solid wood frame built for decades of daily use",
+    "Traditional joinery, no particle board in the frame",
+    "Polish shade can be matched to your doors and windows",
+    "Works indoors or on a covered sit-out"
+   ],
+   "specs": [
+    [
+     "Finish",
+     "Solid wood frame, grey channel cushions"
+    ],
+    [
+     "Seating",
+     "6-seater L-shape"
+    ],
+    [
+     "Wood",
+     "Seasoned solid hardwood: teak, mahogany or jackfruit wood on request (sample)"
+    ],
+    [
+     "Joinery",
+     "Mortise-and-tenon joints, glued and pinned"
+    ],
+    [
+     "Seasoning",
+     "Kiln or air-seasoned to reduce cracking and warping"
+    ],
+    [
+     "Polish",
+     "Melamine or PU polish, matt or gloss; anti-termite treated"
+    ],
+    [
+     "Customisation",
+     "Length, polish shade and seat cushions on order"
+    ],
+    [
+     "Warranty",
+     "1 year on joinery (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Fabric",
+     "values": [
+      "As shown",
+      "Velvet",
+      "Suede",
+      "Leatherette",
+      "Other (tell us)"
+     ]
+    },
+    {
+     "name": "Colour",
+     "values": [
+      "As shown",
+      "Different colour (tell us)"
+     ]
+    }
+   ],
+   "images": [
+    "images/woodframe.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 16,
+   "active": true
+  },
+  {
+   "code": "MAF-BR-01",
+   "name": "Compact 2-Door Wardrobe with Locker",
+   "category": "wardrobes",
+   "subgroup": "2-door",
+   "summary": "2 doors · locker · 4 shelves",
+   "material": "Pre-laminated particle board",
+   "description": "A compact 2-door wardrobe in a linen wood-grain finish with a white top and plinth. Inside are four shelves and an internal locker with its own key, and both doors lock too. It fits small bedrooms, guest rooms and hostel rooms.",
+   "keys": [
+    "Internal locker",
+    "Lockable doors",
+    "4 shelves"
+   ],
+   "tags": [
+    "Particle board",
+    "Lockable"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Interior",
+     "4 fixed shelves, 1 internal locker cabinet with key"
+    ],
+    [
+     "Doors",
+     "2 lockable shutters with aluminium bar handles"
+    ],
+    [
+     "Size (sample)",
+     "W 36\" × D 18\" × H 54\""
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    }
+   ],
+   "images": [
+    "images/cab_closed.jpg",
+    "images/cab_open.jpg"
+   ],
+   "imagePos": "50% 40%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 17,
+   "active": true
+  },
+  {
+   "code": "MAF-BR-02",
+   "name": "Classic 3-Door Wardrobe",
+   "category": "wardrobes",
+   "subgroup": "3-door",
+   "summary": "3 doors · with locker",
+   "material": "Pre-laminated particle board",
+   "description": "A practical 3-door wardrobe with a full-length hanging section, adjustable shelves and an internal locker drawer. Built in pre-laminated particle board with sealed edges for long-lasting, low-maintenance use.",
+   "keys": [
+    "Hanging + shelves",
+    "Internal locker",
+    "Soft-close doors"
+   ],
+   "tags": [
+    "Particle board"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Size (sample)",
+     "W 54\" × D 21\" × H 84\" (approx. 4.5 × 7 ft)"
+    ],
+    [
+     "Interior",
+     "1 hanging bay, 4 adjustable shelves, 1 locker drawer"
+    ],
+    [
+     "Mirror",
+     "Optional full-length mirror on one shutter"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    }
+   ],
+   "images": [],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 18,
+   "active": true,
+   "sketch": "wardrobe3"
+  },
+  {
+   "code": "MAF-BR-03",
+   "name": "4-Door Wardrobe with Loft",
+   "category": "wardrobes",
+   "subgroup": "4-door",
+   "summary": "4 doors + loft",
+   "material": "Pre-laminated particle board",
+   "description": "A wide 4-door wardrobe with an overhead loft for suitcases and seasonal items. Two hanging bays, shelves, drawers and a locker, finished in a scratch-resistant melamine surface.",
+   "keys": [
+    "Overhead loft",
+    "2 hanging bays",
+    "Drawers + locker"
+   ],
+   "tags": [
+    "Particle board",
+    "Loft"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Size (sample)",
+     "W 72\" × D 21\" × H 84\" + 18\" loft"
+    ],
+    [
+     "Interior",
+     "2 hanging bays, 5 shelves, 2 drawers, 1 locker"
+    ],
+    [
+     "Finish options",
+     "Wood-grain, matt solid, or high-gloss two-tone"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    }
+   ],
+   "images": [],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 19,
+   "active": true,
+   "sketch": "wardrobe4"
+  },
+  {
+   "code": "MAF-BS-01",
+   "name": "Oak & Ivory 3-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "3-door",
+   "summary": "Bed + 3-door wardrobe + dresser + 2 side tables",
+   "material": "Oak wood-grain & ivory laminate",
+   "description": "Warm oak wood-grain framing with ivory shutters. The bed has an upholstered channel headboard and two large drawers underneath. The 3-door wardrobe joins a tall dresser with a mirror and open shelves, and two bedside units complete the set.",
+   "keys": [
+    "Drawer-storage bed",
+    "Attached dresser",
+    "Upholstered headboard"
+   ],
+   "tags": [
+    "Storage bed"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Set includes",
+     "Queen/king bed with 2 drawers, 3-door wardrobe, dresser with mirror, 2 bedside tables"
+    ],
+    [
+     "Headboard",
+     "Fabric-padded channel panel in an oak frame"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_oakwhite.jpg"
+   ],
+   "imagePos": "50% 60%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 20,
+   "active": true
+  },
+  {
+   "code": "MAF-BS-02",
+   "name": "Sandstone 3-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "3-door",
+   "summary": "Bed + 3-door wardrobe + dresser",
+   "material": "Beige high-gloss & white",
+   "description": "Soft beige high-gloss shutters with long black bar handles on a white carcass. It comes with a white platform bed with a padded headboard, a 3-drawer dresser with a mirror and open display shelves, and matching bedside drawers.",
+   "keys": [
+    "High-gloss shutters",
+    "Dresser with display",
+    "Platform bed"
+   ],
+   "tags": [
+    "High-gloss"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Set includes",
+     "Bed, 3-door wardrobe, dresser with mirror unit, bedside drawers"
+    ],
+    [
+     "Shutter finish",
+     "Acrylic-look high-gloss laminate (sample)"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_sand.jpg"
+   ],
+   "imagePos": "50% 62%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 21,
+   "active": true
+  },
+  {
+   "code": "MAF-BS-03",
+   "name": "Noir Glass 4-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "4-door",
+   "summary": "Bed + 4-door wardrobe + dresser + 2 side tables",
+   "material": "Cashmere laminate with black glass",
+   "description": "A cashmere-toned 4-door wardrobe whose two centre shutters are black glass, for a striking contrast. It includes a dresser with an arched mirror, open shelves and a drawer, a panel bed, and floating-style bedside tables.",
+   "keys": [
+    "2 black glass shutters",
+    "Arched-mirror dresser",
+    "Panel headboard"
+   ],
+   "tags": [
+    "Glass shutters"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Wardrobe",
+     "4 doors: 2 cashmere laminate outer shutters, 2 black glass centre shutters"
+    ],
+    [
+     "Set includes",
+     "Bed, 4-door wardrobe, dresser with mirror, 2 bedside tables"
+    ],
+    [
+     "Glass",
+     "Toughened back-painted glass (sample)"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_noir.jpg"
+   ],
+   "imagePos": "50% 65%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 22,
+   "active": true
+  },
+  {
+   "code": "MAF-BS-04",
+   "name": "Teak Trim 4-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "4-door",
+   "summary": "Bed + 4-door wardrobe + dresser + side table",
+   "material": "Teak wood-grain & frost white",
+   "description": "Teak wood-grain shutters with fine gold inlay lines set against frost-white framing. The bed has a row of drawers along the footboard, and the tall dresser has a lit mirror, open display shelves and a lockable cabinet.",
+   "keys": [
+    "Footboard drawers",
+    "Gold inlay lines",
+    "Lit dresser unit"
+   ],
+   "tags": [
+    "Storage bed"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Set includes",
+     "King bed with drawers, 4-door wardrobe, dresser with mirror, bedside table"
+    ],
+    [
+     "Locks",
+     "Key locks on wardrobe, dresser and bedside drawers"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_premium.jpg"
+   ],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 23,
+   "active": true
+  },
+  {
+   "code": "MAF-BS-05",
+   "name": "Sage Studio 4-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "4-door",
+   "summary": "Bed + 4-door wardrobe + chest + side table",
+   "material": "Cream matt laminate",
+   "description": "Calm cream matt shutters with long dark handles, a platform bed with an upholstered headboard, and a 3-drawer chest. The clean, handle-led design fits modern and minimal bedrooms.",
+   "keys": [
+    "Long bar handles",
+    "3-drawer chest",
+    "Padded headboard"
+   ],
+   "tags": [
+    "Matt finish"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Set includes",
+     "Bed, 4-door wardrobe, 3-drawer chest, bedside table"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_sage.jpg"
+   ],
+   "imagePos": "55% 60%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 24,
+   "active": true
+  },
+  {
+   "code": "MAF-BS-06",
+   "name": "Graphite Velvet 4-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "4-door",
+   "summary": "Bed + 4-door wardrobe + 2 side tables",
+   "material": "Graphite matt & white",
+   "description": "Graphite-grey wardrobe shutters with slim handles, and a white storage bed with a tall grey velvet channel headboard. Two-tone bedside drawers match the wardrobe.",
+   "keys": [
+    "Velvet channel headboard",
+    "Two-tone finish",
+    "Storage bed"
+   ],
+   "tags": [
+    "Velvet headboard"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Set includes",
+     "Bed with storage, 4-door wardrobe, 2 bedside tables"
+    ],
+    [
+     "Headboard",
+     "Velvet channel-stitched panel, full width"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_graphite.jpg"
+   ],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 25,
+   "active": true
+  },
+  {
+   "code": "MAF-BS-07",
+   "name": "Ivory Gloss 4-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "4-door",
+   "summary": "Bed + 4-door wardrobe + dresser tower",
+   "material": "Beige high-gloss & white",
+   "description": "A bright two-tone set: beige high-gloss shutters in a white frame, a matching dresser tower with an open book niche and a full-length mirror, and a low platform bed with a framed headboard.",
+   "keys": [
+    "Full-length mirror",
+    "Dresser tower",
+    "Platform bed"
+   ],
+   "tags": [
+    "High-gloss"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Set includes",
+     "Bed, 4-door wardrobe, dresser tower with full-length mirror, bedside drawers"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_gloss.jpg"
+   ],
+   "imagePos": "55% 55%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 26,
+   "active": true
+  },
+  {
+   "code": "MAF-BS-08",
+   "name": "Pearl Glass 5-Door Bedroom Set",
+   "category": "bedroom-sets",
+   "subgroup": "5-door",
+   "summary": "Bed + 5-door wardrobe + side table",
+   "material": "Pearl white laminate with tinted glass",
+   "description": "A wide 5-door wardrobe: four pearl-white shutters with long black handles and one tinted-glass display shutter to show off your favourite clothes. Paired with a white box bed and a padded fabric headboard.",
+   "keys": [
+    "Glass display shutter",
+    "Box storage bed",
+    "Fabric headboard"
+   ],
+   "tags": [
+    "Glass display"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Wardrobe",
+     "5 doors: 2 + 2 white shutters either side of 1 glass display shutter"
+    ],
+    [
+     "Set includes",
+     "Bed with storage, 5-door wardrobe, bedside table"
+    ],
+    [
+     "Glass",
+     "Tinted toughened glass in aluminium profile (sample)"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    },
+    {
+     "name": "Bed size",
+     "values": [
+      "King",
+      "Queen"
+     ]
+    }
+   ],
+   "images": [
+    "images/bs_silk.jpg"
+   ],
+   "imagePos": "50% 62%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 27,
+   "active": true
+  },
+  {
+   "code": "MAF-ST-01",
+   "name": "Executive Office Desk",
+   "category": "study",
+   "subgroup": "office-desks",
+   "summary": "Desk with modesty panel",
+   "material": "Teak wood-grain laminate",
+   "description": "A solid-looking executive desk in rich teak wood-grain with a full modesty panel and a thick top edge, on brushed metal skids. Made for cabins, home offices and reception counters.",
+   "keys": [
+    "Full modesty panel",
+    "Thick top edge",
+    "Metal skid base"
+   ],
+   "tags": [
+    "Office"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Size (sample)",
+     "W 60\" × D 30\" × H 30\""
+    ],
+    [
+     "Top",
+     "25 mm post-formed or double-layer edge"
+    ],
+    [
+     "Add-ons",
+     "Side pedestal drawers and cable manager on request"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    }
+   ],
+   "images": [
+    "images/desk.jpg"
+   ],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 28,
+   "active": true
+  },
+  {
+   "code": "MAF-ST-02",
+   "name": "Compact Study Desk",
+   "category": "study",
+   "subgroup": "study-tables",
+   "summary": "Desk with drawers",
+   "material": "Pre-laminated particle board",
+   "description": "A compact desk for bedrooms and small flats, with two drawers and an open shelf. Suits children's rooms and work-from-home corners.",
+   "keys": [
+    "2 drawers",
+    "Open shelf",
+    "Compact footprint"
+   ],
+   "tags": [
+    "Space-saving"
+   ],
+   "features": [
+    "Engineered particle board stays flat and does not warp like solid wood can",
+    "Melamine finish wipes clean and resists scratches and stains",
+    "Sealed edge banding keeps out moisture and humidity",
+    "Soft-close hardware for quiet, smooth daily use",
+    "Choose from wood-grain, plain or two-tone finishes"
+   ],
+   "specs": [
+    [
+     "Carcass",
+     "18 mm pre-laminated particle board (IS 12823 grade, E1 low-emission)"
+    ],
+    [
+     "Back panel",
+     "8 mm pre-laminated board, grooved into the carcass"
+    ],
+    [
+     "Surface finish",
+     "Melamine-faced, scratch, stain and heat resistant, in wood-grain, matt or high-gloss"
+    ],
+    [
+     "Edge banding",
+     "2 mm PVC on shutters, 0.8 mm on internal edges; moisture-resistant hot-melt bonding"
+    ],
+    [
+     "Hinges",
+     "Soft-close auto hinges, 3D adjustable"
+    ],
+    [
+     "Drawers",
+     "Telescopic ball-bearing channels"
+    ],
+    [
+     "Handles",
+     "Aluminium profile or designer handles"
+    ],
+    [
+     "Size (sample)",
+     "W 36\" × D 18\" × H 30\""
+    ],
+    [
+     "Ergonomics",
+     "Rounded front edge, 30\" working height"
+    ],
+    [
+     "Warranty",
+     "1 year on manufacturing defects (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "As shown",
+      "Wood-grain laminate",
+      "Matt laminate",
+      "High-gloss laminate"
+     ]
+    }
+   ],
+   "images": [],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 29,
+   "active": true,
+   "sketch": "desk2"
+  },
+  {
+   "code": "MAF-OD-01",
+   "name": "Teak Slat Settee",
+   "category": "outdoor",
+   "subgroup": "wooden-settees",
+   "summary": "3-seater",
+   "material": "Solid wood, natural polish",
+   "description": "A classic 3-seater wooden settee with wide horizontal back slats, a slatted seat and broad flat armrests. The rich natural polish brings out the grain, and it suits sit-outs, verandahs and entrance halls.",
+   "keys": [
+    "Wide back slats",
+    "Broad armrests",
+    "Natural grain polish"
+   ],
+   "tags": [
+    "Solid wood"
+   ],
+   "features": [
+    "Solid wood frame built for decades of daily use",
+    "Traditional joinery, no particle board in the frame",
+    "Polish shade can be matched to your doors and windows",
+    "Works indoors or on a covered sit-out"
+   ],
+   "specs": [
+    [
+     "Finish",
+     "Solid wood, natural polish"
+    ],
+    [
+     "Seating",
+     "3-seater"
+    ],
+    [
+     "Wood",
+     "Seasoned solid hardwood: teak, mahogany or jackfruit wood on request (sample)"
+    ],
+    [
+     "Joinery",
+     "Mortise-and-tenon joints, glued and pinned"
+    ],
+    [
+     "Seasoning",
+     "Kiln or air-seasoned to reduce cracking and warping"
+    ],
+    [
+     "Polish",
+     "Melamine or PU polish, matt or gloss; anti-termite treated"
+    ],
+    [
+     "Customisation",
+     "Length, polish shade and seat cushions on order"
+    ],
+    [
+     "Warranty",
+     "1 year on joinery (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Polish",
+     "values": [
+      "As shown",
+      "Teak polish",
+      "Walnut polish",
+      "Natural"
+     ]
+    }
+   ],
+   "images": [
+    "images/teakbench.jpg"
+   ],
+   "imagePos": "50% 62%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 30,
+   "active": true
+  },
+  {
+   "code": "MAF-OD-02",
+   "name": "Flared-Arm Wooden Settee",
+   "category": "outdoor",
+   "subgroup": "wooden-settees",
+   "summary": "3-seater",
+   "material": "Solid wood, honey polish",
+   "description": "Vertical spindle back and gracefully flared side panels on splayed legs. It's a lighter, more open design that works as a sit-out settee or a hallway seat, and you can add cushions for longer sitting.",
+   "keys": [
+    "Spindle back",
+    "Flared sides",
+    "Cushions optional"
+   ],
+   "tags": [
+    "Solid wood"
+   ],
+   "features": [
+    "Solid wood frame built for decades of daily use",
+    "Traditional joinery, no particle board in the frame",
+    "Polish shade can be matched to your doors and windows",
+    "Works indoors or on a covered sit-out"
+   ],
+   "specs": [
+    [
+     "Finish",
+     "Solid wood, honey polish"
+    ],
+    [
+     "Seating",
+     "3-seater"
+    ],
+    [
+     "Wood",
+     "Seasoned solid hardwood: teak, mahogany or jackfruit wood on request (sample)"
+    ],
+    [
+     "Joinery",
+     "Mortise-and-tenon joints, glued and pinned"
+    ],
+    [
+     "Seasoning",
+     "Kiln or air-seasoned to reduce cracking and warping"
+    ],
+    [
+     "Polish",
+     "Melamine or PU polish, matt or gloss; anti-termite treated"
+    ],
+    [
+     "Customisation",
+     "Length, polish shade and seat cushions on order"
+    ],
+    [
+     "Warranty",
+     "1 year on joinery (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Polish",
+     "values": [
+      "As shown",
+      "Teak polish",
+      "Walnut polish",
+      "Natural"
+     ]
+    }
+   ],
+   "images": [
+    "images/settee.jpg"
+   ],
+   "imagePos": "50% 62%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 31,
+   "active": true
+  },
+  {
+   "code": "MAF-OD-03",
+   "name": "Walnut Heritage Bench",
+   "category": "outdoor",
+   "subgroup": "wooden-settees",
+   "summary": "2–3 seater",
+   "material": "Solid wood, walnut polish",
+   "description": "A traditional bench in deep walnut polish with a slatted back, a planked seat and brass-capped feet. It's at home in a sit-out, a study corner or a puja room.",
+   "keys": [
+    "Brass-capped feet",
+    "Walnut polish",
+    "Planked seat"
+   ],
+   "tags": [
+    "Brass caps"
+   ],
+   "features": [
+    "Solid wood frame built for decades of daily use",
+    "Traditional joinery, no particle board in the frame",
+    "Polish shade can be matched to your doors and windows",
+    "Works indoors or on a covered sit-out"
+   ],
+   "specs": [
+    [
+     "Finish",
+     "Solid wood, walnut polish"
+    ],
+    [
+     "Seating",
+     "2–3 seater"
+    ],
+    [
+     "Wood",
+     "Seasoned solid hardwood: teak, mahogany or jackfruit wood on request (sample)"
+    ],
+    [
+     "Joinery",
+     "Mortise-and-tenon joints, glued and pinned"
+    ],
+    [
+     "Seasoning",
+     "Kiln or air-seasoned to reduce cracking and warping"
+    ],
+    [
+     "Polish",
+     "Melamine or PU polish, matt or gloss; anti-termite treated"
+    ],
+    [
+     "Customisation",
+     "Length, polish shade and seat cushions on order"
+    ],
+    [
+     "Warranty",
+     "1 year on joinery (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Polish",
+     "values": [
+      "As shown",
+      "Teak polish",
+      "Walnut polish",
+      "Natural"
+     ]
+    }
+   ],
+   "images": [
+    "images/walnutbench.jpg"
+   ],
+   "imagePos": "50% 70%",
+   "styled": false,
+   "render": true,
+   "price": null,
+   "showPrice": false,
+   "order": 32,
+   "active": true
+  },
+  {
+   "code": "MAF-OD-04",
+   "name": "Sit-out Chair Pair with Tea Table",
+   "category": "outdoor",
+   "subgroup": "sit-out-chairs",
+   "summary": "2 chairs + 1 table",
+   "material": "Powder-coated frame with weave",
+   "description": "Two sit-out chairs and a small tea table for the verandah or balcony. Powder-coated frame with a synthetic weave that handles sun and rain.",
+   "keys": [
+    "Set of 2 + table",
+    "Rust-resistant",
+    "Weatherproof weave"
+   ],
+   "tags": [
+    "Weather-resistant"
+   ],
+   "features": [
+    "Made for verandahs and sit-outs",
+    "Stays comfortable in hot weather thanks to the open weave",
+    "Light enough to move around",
+    "Colours and cushions can be matched to your home"
+   ],
+   "specs": [
+    [
+     "Frame",
+     "Powder-coated MS / aluminium tube (sample)"
+    ],
+    [
+     "Seat",
+     "Synthetic PVC weave or cane-look rope"
+    ],
+    [
+     "Cushions",
+     "Optional water-resistant seat cushions"
+    ],
+    [
+     "Finish",
+     "UV-stabilised coating; wipe clean"
+    ],
+    [
+     "Warranty",
+     "1 year on frame (sample)"
+    ]
+   ],
+   "options": [
+    {
+     "name": "Frame colour",
+     "values": [
+      "Black",
+      "White",
+      "Brown"
+     ]
+    }
+   ],
+   "images": [],
+   "imagePos": "50% 55%",
+   "styled": false,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 33,
+   "active": true,
+   "sketch": "chair"
+  }
+ ]
+}
