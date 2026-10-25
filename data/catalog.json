@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-22T00:00:00Z",
+ "updated": "2026-10-25T16:40:44.861Z",
  "settings": {
   "brand": "M A FURNITURE",
   "subtitle": "Manufacturing, Wholesale, Interior Work & Retail",
@@ -3018,6 +3018,81 @@
    "order": 33,
    "active": true,
    "sketch": "chair"
+  },
+  {
+   "code": "MAF-BS-09",
+   "name": "4 door bedroom set",
+   "category": "bedroom-sets",
+   "subgroup": "4-door",
+   "summary": "W 64 H 80 D 20",
+   "material": "FULL BIEGE FINISH",
+   "description": "നിങ്ങളുടെ കിടപ്പുമുറിക്ക് കൂടുതൽ ഭംഗിയും പ്രീമിയം ലുക്കും നൽകാൻ MA Furniture അവതരിപ്പിക്കുന്ന '4-ഡോർ ബെഡ്‌റൂം വാർഡ്‌റോബ് സെറ്റ്'. ഫുൾ ബീജ് (Beige) കളറിൽ ആകർഷകമായ ഗ്ലാസ് ഡോറുകളോട് കൂടിയാണ് ഈ സെറ്റ് ഡിസൈൻ ചെയ്തിരിക്കുന്നത്. ദീർഘകാലം ഈടുനിൽക്കുന്നതിനായി മികച്ച ഗുണനിലവാരമുള്ള ഗ്രീൻലാൻഡ് (Greenland) ബ്രാൻഡിന്റെ 17mm ഹൈലി ഫിനിഷ്ഡ് പാർട്ടിക്കിൾ ബോർഡാണ് ഇതിൽ ഉപയോഗിച്ചിരിക്കുന്നത്.",
+   "keys": [
+    "(Key Specifications):",
+    "അളവുകൾ  വീതി (Width) - 64 ഇഞ്ച് | ആഴം (Depth) - 20 ഇഞ്ച് | ഉയരം (Height) - 80 അടി",
+    "ഡോർ ഡിസൈൻ: ഗ്ലാസ് ഡോറുകളോട് കൂടിയ ഫുൾ ബീജ് (Beige) ഫിനിഷ്.",
+    "ഫിറ്റിംഗ്സ് (Fittings): സ്മൂത്ത് ആയി പ്രവർത്തിക്കുന്ന പ്രീമിയം ക്വാളിറ്റി ഫിറ്റിംഗ്സ്.",
+    "വാറന്റി വിവരങ്ങൾ (Warranty):",
+    "ബോർഡ് വാറന്റി: 5 വർഷം (5-Year Warranty on Particle Board).",
+    "ഫിറ്റിംഗ്സ് വാറന്റി: 2 വർഷം (2-Year Warranty on Hardware & Fittinngs",
+    "മെറ്റീരിയൽ: 17mm പ്രീമിയം പാർട്ടിക്കിൾ ബോർഡ് (ബ്രാൻഡ്: Greenland)"
+   ],
+   "tags": [],
+   "features": [
+    "മികച്ച ഗുണനിലവാരമുള്ള 17mm ഗ്രീൻലാൻഡ് പാർട്ടിക്കിൾ ബോർഡ്",
+    "ആകർഷകമായ ഗ്ലാസ് ഡോറുകളോട് കൂടിയ ഫുൾ ബീജ് ഫിനിഷ്",
+    "ദീർഘകാലം ഈടുനിൽക്കുന്ന പ്രീമിയം ക്വാളിറ്റി ഫിറ്റിംഗ്സ്",
+    "ബോർഡിന് 5 വർഷത്തെ വാറന്റിയും ഫിറ്റിംഗ്സിന് 2 വർഷത്തെ വാറന്റിയും",
+    "നിങ്ങളുടെ റൂമിന്റെ അളവുകൾക്ക് അനുസരിച്ച് കസ്റ്റമൈസ് ചെയ്തു നൽകുന്നതാണ്"
+   ],
+   "specs": [],
+   "options": [
+    {
+     "name": "colour",
+     "values": [
+      "full biege",
+      "mojito",
+      "full white",
+      "woodencolours",
+      "multy colours"
+     ]
+    },
+    {
+     "name": "size",
+     "values": [
+      "any suitable for your room"
+     ]
+    },
+    {
+     "name": "handles",
+     "values": [
+      "12 inch",
+      "24inch",
+      "36",
+      "others"
+     ]
+    },
+    {
+     "name": "fittings brand",
+     "values": [
+      "sleek",
+      "ebco",
+      "ollie",
+      "spider"
+     ]
+    }
+   ],
+   "images": [
+    "images/maf-bs-09-mvo20oj50.jpg"
+   ],
+   "imagePos": "50% 55%",
+   "styled": true,
+   "render": false,
+   "price": null,
+   "showPrice": false,
+   "order": 34,
+   "active": true,
+   "updatedAt": "2026-10-25T16:40:44.205Z"
   }
  ]
 }
